@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/waltex/static/css/main.14f7b9a1.css",
+    "main.js": "/waltex/static/js/main.7ad17c3a.js",
+    "static/media/design.svg": "/waltex/static/media/design.501f9052194816fc81cd3056a34b4ea2.svg",
+    "static/media/repairs.svg": "/waltex/static/media/repairs.357f81772c9e51f54c6d97abb2da9f54.svg",
+    "index.html": "/waltex/index.html",
+    "main.14f7b9a1.css.map": "/waltex/static/css/main.14f7b9a1.css.map",
+    "main.7ad17c3a.js.map": "/waltex/static/js/main.7ad17c3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14f7b9a1.css",
+    "static/js/main.7ad17c3a.js"
+  ]
+}
